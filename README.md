@@ -127,3 +127,10 @@ npm run test
 ```
 npm run lint
 ```
+
+## Backend api
+1. push to aws lambda
+2. name lambda_function.py
+
+## food all asset
+1. push to aws S3
